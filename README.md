@@ -15,4 +15,4 @@
 - `Amount`: Monto del crédito 
 - `Price`: Precio de los bienes
 
-![]("plots/plot_income_job.png")
+![](plots/plot_income_job.png)
